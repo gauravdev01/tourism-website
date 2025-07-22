@@ -9,8 +9,7 @@ ADVENTURE - "Where Every Journey Begins"
  -  This is a simple website
  -  Pure HTML, CSS, JavaScript used
  
- ## 🔗 To see the project
-[Tourism website] https://tourism-website-theta.vercel.app/
+
 
 ## ⛰ Adventure - Features 
 Adventure is your passport to explore the world's most exciting destinations and discover amazing events, tours, and hidden gems. Our platform is designed to inspire and assist you in planning your next unforgettable journey.
